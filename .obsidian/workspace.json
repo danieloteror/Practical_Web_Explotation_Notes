@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "de5bc95e2cc5b67e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2414f793ca9cac7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "506419c87ca106d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vulns/Ataques de Deserialización.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ataques de Deserialización"
+            }
+          },
+          {
+            "id": "235ab9381f744b7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vulns/🐍LOG POISONING con LFI → RCE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🐍LOG POISONING con LFI → RCE"
+            }
+          },
+          {
+            "id": "3891d985aacb57f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vulns/🪙 JSON Web Tokens (JWT) — Enumeración y Explotación.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🪙 JSON Web Tokens (JWT) — Enumeración y Explotación"
+            }
+          },
+          {
+            "id": "4c17d1dd9d0a8005",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vulns/⚽ DES-YAML — Deserialización Insegura en YAML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "⚽ DES-YAML — Deserialización Insegura en YAML"
+            }
+          },
+          {
+            "id": "003b0cab83f6e1d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vulns/🧪 XSS (Cross-Site Scripting).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🧪 XSS (Cross-Site Scripting)"
+            }
+          },
+          {
+            "id": "8d54463200692cc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vulns/🦑 Squid Proxy Misconfiguration — Pivoting & Internal Port Enumeration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🦑 Squid Proxy Misconfiguration — Pivoting & Internal Port Enumeration"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e799f2ed8572e20",
+    "type": "split",
+    "children": [
+      {
+        "id": "8442b2507a918ad1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94fee3f6d36d04a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bd5d9863d596339c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b617ceb06b35b82d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5004348754883
+  },
+  "right": {
+    "id": "2885aa2b40b9e691",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe31f96671522c9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26fe1ef4f50cc66c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "vulns/Vulnerabilidad XXE (XMl External Entity).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Vulnerabilidad XXE (XMl External Entity)"
+            }
+          },
+          {
+            "id": "e39c90f195cc8ae9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "vulns/Vulnerabilidad XXE (XMl External Entity).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vulnerabilidad XXE (XMl External Entity)"
+            }
+          },
+          {
+            "id": "a840b902727e787a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6918bd60e92dc3d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "vulns/Vulnerabilidad XXE (XMl External Entity).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Vulnerabilidad XXE (XMl External Entity)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "003b0cab83f6e1d9",
+  "lastOpenFiles": [
+    "Vulns/📤 Abuso de Subida de Archivos (File Upload Abuse).md",
+    "Vulns/✍️ Ataques de asignación masiva (Mass-Asignment Attack) -Parameter Binding.md",
+    "Vulns/🪙 JSON Web Tokens (JWT) — Enumeración y Explotación.md",
+    "Vulns/🏁 Race Condition (Condiciones de Carrera).md",
+    "Vulns/🎨 CSS Injection (CSSI).md",
+    "Vulns/⚽ DES-YAML — Deserialización Insegura en YAML.md",
+    "Vulns/🥒 DES-Pickle – Ataque de Deserialización Pickle.md",
+    "Vulns/📈 GraphQL Introspection, Mutations e IDORs.md",
+    "Vulns/🪪 Session Puzzling - Session Fixation - Session Variable Overloading.md",
+    "Vulns/📄 Inyecciones LaTex.md",
+    "Vulns/🛰️ SSRF (Server-Side Request Forgery).md",
+    "Vulns/🧨 SQL Injection.md",
+    "Reconocimiento y Enumeracion/🕵️‍♂️ Recon Total (Web + Infra).md",
+    "Vulns/🆔 Insecure Direct Object Reference (IDORs).md",
+    "Vulns/🔌 Abuso de APIs.md",
+    "Vulns/🖧Server-Side Template Injection (SSTI).md",
+    "Vulns/🏴‍☠️  (CORS)  Intercambio de recursos de origen cruzado.md",
+    "Vulns/✂️ SQL Truncation Attack (Truncado SQL).md",
+    "Herramientas/🛡️ OpenVAS (Greenbone Vulnerability Management).md",
+    "Vulns/💣 Ataques de Deserialización.md",
+    "Vulns/🐚 Shellshock — RCE vía Bash.md",
+    "Vulns/🦑 Squid Proxy Misconfiguration — Pivoting & Internal Port Enumeration.md",
+    "Vulns/🎯CSRF (Cross-Site Request Forgery).md",
+    "Vulns/🧪 XSS (Cross-Site Scripting).md",
+    "Vulns/🧬 LDAP Injection.md",
+    "Herramientas/John the Ripper (JtR).md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Escalada de privilegios",
+    "Herramientas",
+    "Reconocimiento y Enumeracion",
+    "Teoria",
+    "Vulns"
+  ]
+}
